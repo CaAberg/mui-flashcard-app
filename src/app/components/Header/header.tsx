@@ -3,7 +3,7 @@ import { AppBar, Toolbar, Typography, Box } from "@mui/material";
 export default function Header() {
   return (
     <AppBar sx= {{
-      margin: "20px",
+      marginBottom: "20px",
     }}
     position="static">
       <Toolbar
